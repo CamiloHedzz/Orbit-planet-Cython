@@ -20,16 +20,16 @@ del desarrollo.
 
 Requisitos para compilacion:
 
-  $ sudo apt-get install build-essential
+    $ sudo apt-get install build-essential
   
-  $ sudo apt-get install gcc
+    $ sudo apt-get install gcc
   
 
 Requisitos para ejecución:
 
-  $ python3 setup.py build_ext --inplace
+    $ python3 setup.py build_ext --inplace
   
-  $ python3 principal.py 
+    $ python3 principal.py 
   
 
 

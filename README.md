@@ -1,5 +1,10 @@
 # Orbit-planet-Cython
 
+Juan Camilo Hernandez Ibañez
+
+Ciencias de la Computación e Inteligencia Artificial
+
+
 CYTHON
 
 Cython es un lenguaje de programación para simplificar la escritura de módulos de extensión para 

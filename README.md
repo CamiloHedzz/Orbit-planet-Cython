@@ -1,4 +1,4 @@
-# Orbit-planet-Cython
+# Orbit Planet Cython
 
 Juan Camilo Hernandez Ibañez
 
